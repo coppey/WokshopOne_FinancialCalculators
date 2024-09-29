@@ -7,7 +7,7 @@ How it works:
 The program starts by asking the user which of the three calculators the user wants to utilize
 ![image](https://github.com/user-attachments/assets/f911f4ee-5142-4666-9572-28427d5dc86c)
 
-Using the scanner, the program will look for 1 of 4 possible inputs, A Mortgage, B Investments, C Aunnuity, or Invalid input(everything else that isnt ABC)
+Using the scanner, the program will look for 1 of 4 possible inputs, A Mortgage, B Investments, C Aunnuity, or Invalid input (everything else that isnt ABC)
 
 Based of the Input of the user the program will execute the corresponding code using a number of if statements and methods
 ![image](https://github.com/user-attachments/assets/f7a30eda-583f-4970-b8be-49f465b25414)
